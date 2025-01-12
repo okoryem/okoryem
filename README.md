@@ -5,7 +5,7 @@
 - I am focused on software development, honing my skills to build innovative and impactful applications.   
 
 💻 **What I’m Working On**  
-- 🌍 Improving a migration visualization website using interactive maps.    
+- 🌍 Improving a migration visualization java application using interactive maps.    
 
 🌱 **Future Directions**  
 - Building impactful applications that improve people's lives on a global or local scale.  
